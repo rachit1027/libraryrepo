@@ -126,3 +126,5 @@ def form_view(request):
 #     {{ form.check_me_out|as_crispy_field }}
 #     <button type="submit" class="btn btn-primary">Sign in</button>
 #   </form> -->
+
+# yess sir new virew added
